@@ -1,16 +1,26 @@
-### Hi there 👋
+### 👋 Hello there!
 
-<!--
-**KyrptDev/KyrptDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Krypt, a passionate Frontend Website Devloper based in Edinbrugh Scotland. I enjoy Coding but if i'm not coding i'm sipping on a coffee, and I'm constantly exploring new ways to code and get round problems! .
 
-Here are some ideas to get you started:
+### 🚀 What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as Frontend Website Devloper 
+- 🌱 Learning Backend Coding
+
+### 💻 My tech stack
+
+- 🚀 HTML & CSS & .NET & NodeJS 
+- 🔧 Visual Studio Code & Code Playground 
+
+### 📫 Let's connect
+
+- 📧 Email: kryptdev@gmail.com
+- 🌐 Personal Website: https://kryptdev.co.uk
+
+### 🤝 Looking forward to
+
+- ✨ Connecting with like-minded individuals
+- 🌐 Exploring opportunities for collaboration
+- 📬 Receiving feedback and insights
+
+Feel free to reach out, and let's create something amazing together! 🌟
