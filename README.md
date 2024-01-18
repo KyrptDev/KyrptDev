@@ -1,26 +1,35 @@
-### 👋 Hello there!
+<div align="center">
 
-I'm Krypt, a passionate Frontend Website Devloper based in Edinbrugh Scotland. I enjoy Coding but if i'm not coding i'm sipping on a coffee, and I'm constantly exploring new ways to code and get round problems! .
+# Hey there! 👋 I'm Nuro
 
-### 🚀 What I'm up to
+Passionate Garry's Mod Lua Developer |  Code Wizard 🧙‍♂️
 
-- 💼 Currently working as Frontend Website Devloper 
-- 🌱 Learning Backend Coding
+</div>
 
-### 💻 My tech stack
+## 🚀 About Me
 
-- 🚀 HTML & CSS & .NET & NodeJS 
-- 🔧 Visual Studio Code & Code Playground 
+Welcome to my GitHub! I'm a dedicated Garry's Mod Lua developer who loves turning ideas into virtual realities. Beyond Lua, I thrive in various other technologies, bringing creativity and innovation to every project.
 
-### 📫 Let's connect
+## 💻 Skills
 
-- 📧 Email: kryptdev@gmail.com
-- 🌐 Personal Website: https://kryptdev.co.uk
+- **Garry's Mod Lua:** Crafting immersive experiences within the Garry's Mod universe.
+  
+- **HTML & CSS:** Designing sleek and user-friendly web interfaces.
 
-### 🤝 Looking forward to
+- **JavaScript (JS):** Building dynamic and interactive web applications.
 
-- ✨ Connecting with like-minded individuals
-- 🌐 Exploring opportunities for collaboration
-- 📬 Receiving feedback and insights
+- **C#:** Developing robust applications for different platforms.
 
-Feel free to reach out, and let's create something amazing together! 🌟
+## 🌐 Let's Connect!
+
+Explore my repositories to see the magic I've conjured. If you have questions, ideas, or just want to chat, feel free to reach out!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/NuroUK)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/650730342273122344)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-green)](mailto:nurohimself@gmail.com)
+
+</div>
+
+Happy coding! 🚀
