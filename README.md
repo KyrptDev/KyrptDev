@@ -1,4 +1,4 @@
-Hi there 👋, I'm Nova!
+# Hi there 👋, I'm Nova!
 I'm passionate about building beautiful and functional web experiences using HTML, CSS, and JavaScript. I also enjoy creating Discord bots to enhance server experiences.
 
 🔭 I’m currently working on
@@ -19,5 +19,3 @@ Git
 
 📫 How to reach me
 You can find me on Discord. > @novauk_
-
-Let's connect and build something amazing together!
