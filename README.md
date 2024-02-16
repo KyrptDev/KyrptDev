@@ -5,7 +5,8 @@ I'm passionate about building beautiful and functional web experiences using HTM
 Enhancing my skills in front-end development
 Building responsive and accessible web applications
 Developing Discord bots for various server needs
-🌱 I’m currently learning
+
+## 🌱 I’m currently learning
 Advanced CSS techniques
 JavaScript frameworks like React.js
 Discord bot development using Discord.js
