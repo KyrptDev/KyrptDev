@@ -9,13 +9,11 @@ Developing Discord bots for various server needs
 Advanced CSS techniques
 JavaScript frameworks like React.js
 Discord bot development using Discord.js
-💼 Skills
-HTML
-CSS
-JavaScript
-Responsive Web Design
-Discord Bot Development
-Git
+
+## 💼 Skills
+
+HTML | CSS | JavaScript | Responsive Web Design | Discord Bot Development | Git
+
 
 📫 How to reach me
 You can find me on Discord. > @novauk_
