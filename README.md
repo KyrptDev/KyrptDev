@@ -1,35 +1,23 @@
-<div align="center">
+Hi there 👋, I'm Nova!
+I'm passionate about building beautiful and functional web experiences using HTML, CSS, and JavaScript. I also enjoy creating Discord bots to enhance server experiences.
 
-# Hey there! 👋 I'm Nuro
+🔭 I’m currently working on
+Enhancing my skills in front-end development
+Building responsive and accessible web applications
+Developing Discord bots for various server needs
+🌱 I’m currently learning
+Advanced CSS techniques
+JavaScript frameworks like React.js
+Discord bot development using Discord.js
+💼 Skills
+HTML
+CSS
+JavaScript
+Responsive Web Design
+Discord Bot Development
+Git
 
-Passionate Garry's Mod Lua Developer |  Code Wizard 🧙‍♂️
+📫 How to reach me
+You can find me on Discord. > @novauk_
 
-</div>
-
-## 🚀 About Me
-
-Welcome to my GitHub! I'm a dedicated Garry's Mod Lua developer who loves turning ideas into virtual realities. Beyond Lua, I thrive in various other technologies, bringing creativity and innovation to every project.
-
-## 💻 Skills
-
-- **Garry's Mod Lua:** Crafting immersive experiences within the Garry's Mod universe.
-  
-- **HTML & CSS:** Designing sleek and user-friendly web interfaces.
-
-- **JavaScript (JS):** Building dynamic and interactive web applications.
-
-- **C#:** Developing robust applications for different platforms.
-
-## 🌐 Let's Connect!
-
-Explore my repositories to see the magic I've conjured. If you have questions, ideas, or just want to chat, feel free to reach out!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/NuroUK)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/650730342273122344)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-green)](mailto:nurohimself@gmail.com)
-
-</div>
-
-Happy coding! 🚀
+Let's connect and build something amazing together!
